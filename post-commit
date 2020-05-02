@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Recieved commit - uploading to remote"
+git push
